@@ -28,9 +28,9 @@
 		4B5F69421B05EBD4008A99BD /* ELCAssetTablePicker.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4B5F69361B05EBD4008A99BD /* ELCAssetTablePicker.xib */; };
 		4B5F69431B05EBD4008A99BD /* Overlay.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B5F69371B05EBD4008A99BD /* Overlay.png */; };
 		4B5F69441B05EBD4008A99BD /* Overlay@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B5F69381B05EBD4008A99BD /* Overlay@2x.png */; };
-		4B5F69481B05F531008A99BD /* IMG_1077.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 4B5F69451B05F531008A99BD /* IMG_1077.PNG */; };
-		4B5F69491B05F531008A99BD /* IMG_1078.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 4B5F69461B05F531008A99BD /* IMG_1078.PNG */; };
-		4B5F694A1B05F531008A99BD /* IMG_1079.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 4B5F69471B05F531008A99BD /* IMG_1079.PNG */; };
+		4B5F694C1B05F67D008A99BD /* IMG_1077.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B5F694B1B05F67D008A99BD /* IMG_1077.png */; };
+		4B5F694E1B05F6B1008A99BD /* IMG_1078.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B5F694D1B05F6B1008A99BD /* IMG_1078.png */; };
+		4B5F69501B05F6DB008A99BD /* IMG_1079.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B5F694F1B05F6DB008A99BD /* IMG_1079.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -83,9 +83,9 @@
 		4B5F69361B05EBD4008A99BD /* ELCAssetTablePicker.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ELCAssetTablePicker.xib; sourceTree = "<group>"; };
 		4B5F69371B05EBD4008A99BD /* Overlay.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Overlay.png; sourceTree = "<group>"; };
 		4B5F69381B05EBD4008A99BD /* Overlay@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Overlay@2x.png"; sourceTree = "<group>"; };
-		4B5F69451B05F531008A99BD /* IMG_1077.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IMG_1077.PNG; sourceTree = "<group>"; };
-		4B5F69461B05F531008A99BD /* IMG_1078.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IMG_1078.PNG; sourceTree = "<group>"; };
-		4B5F69471B05F531008A99BD /* IMG_1079.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IMG_1079.PNG; sourceTree = "<group>"; };
+		4B5F694B1B05F67D008A99BD /* IMG_1077.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IMG_1077.png; sourceTree = "<group>"; };
+		4B5F694D1B05F6B1008A99BD /* IMG_1078.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IMG_1078.png; sourceTree = "<group>"; };
+		4B5F694F1B05F6DB008A99BD /* IMG_1079.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IMG_1079.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -135,9 +135,9 @@
 				4B5F68FE1B05EB59008A99BD /* Main.storyboard */,
 				4B5F69011B05EB59008A99BD /* Images.xcassets */,
 				4B5F69031B05EB59008A99BD /* LaunchScreen.xib */,
-				4B5F69451B05F531008A99BD /* IMG_1077.PNG */,
-				4B5F69461B05F531008A99BD /* IMG_1078.PNG */,
-				4B5F69471B05F531008A99BD /* IMG_1079.PNG */,
+				4B5F694B1B05F67D008A99BD /* IMG_1077.png */,
+				4B5F694D1B05F6B1008A99BD /* IMG_1078.png */,
+				4B5F694F1B05F6DB008A99BD /* IMG_1079.png */,
 				4B5F68F41B05EB58008A99BD /* Supporting Files */,
 			);
 			path = DemoGetImageFromCameraAndAlbum;
@@ -298,15 +298,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4B5F694E1B05F6B1008A99BD /* IMG_1078.png in Resources */,
+				4B5F694C1B05F67D008A99BD /* IMG_1077.png in Resources */,
 				4B5F69421B05EBD4008A99BD /* ELCAssetTablePicker.xib in Resources */,
-				4B5F69481B05F531008A99BD /* IMG_1077.PNG in Resources */,
 				4B5F69401B05EBD4008A99BD /* ELCAlbumPickerController.xib in Resources */,
-				4B5F69491B05F531008A99BD /* IMG_1078.PNG in Resources */,
 				4B5F69431B05EBD4008A99BD /* Overlay.png in Resources */,
 				4B5F69001B05EB59008A99BD /* Main.storyboard in Resources */,
 				4B5F69051B05EB59008A99BD /* LaunchScreen.xib in Resources */,
-				4B5F694A1B05F531008A99BD /* IMG_1079.PNG in Resources */,
 				4B5F69441B05EBD4008A99BD /* Overlay@2x.png in Resources */,
+				4B5F69501B05F6DB008A99BD /* IMG_1079.png in Resources */,
 				4B5F69021B05EB59008A99BD /* Images.xcassets in Resources */,
 				4B5F69411B05EBD4008A99BD /* ELCAssetPicker.xib in Resources */,
 			);
