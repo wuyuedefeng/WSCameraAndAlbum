@@ -2,11 +2,11 @@
 
 ##使用改库只需要一个函数即可搞定图片选取功能 包括单选多选拍照上传
 
-![图片名称](https://raw.githubusercontent.com/wuyuedefeng/WSCameraAndAlbum/master/DemoGetImageFromCameraAndAlbum/IMG_1077.PNG)
+![图片名称](https://github.com/wuyuedefeng/WSCameraAndAlbum/blob/master/DemoGetImageFromCameraAndAlbum/IMG_1077.png)
 
-![图片名称](https://raw.githubusercontent.com/wuyuedefeng/WSCameraAndAlbum/master/DemoGetImageFromCameraAndAlbum/IMG_1078.PNG)
+![图片名称](https://github.com/wuyuedefeng/WSCameraAndAlbum/blob/master/DemoGetImageFromCameraAndAlbum/IMG_1078.png)
 
-![图片名称](https://raw.githubusercontent.com/wuyuedefeng/WSCameraAndAlbum/master/DemoGetImageFromCameraAndAlbum/IMG_1079.PNG)
+![图片名称](https://github.com/wuyuedefeng/WSCameraAndAlbum/blob/master/DemoGetImageFromCameraAndAlbum/IMG_1079.png)
 
 ```objective-c
 /**
