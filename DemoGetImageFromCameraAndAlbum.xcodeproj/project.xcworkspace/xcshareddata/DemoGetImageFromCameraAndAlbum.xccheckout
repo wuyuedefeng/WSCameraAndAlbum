@@ -7,21 +7,21 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>C40B9426-9736-4200-ABDD-19A7823F7550</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>DemoGetImageFromCameraAndAlbum</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>4DE96ECCD9CC0DF59857D740D44FF8754A98CE9E</key>
-		<string>https://github.com/wuyuedefeng/WSCameraAndAlbum.git</string>
+		<string>https://github.com/wuyuedefeng/WSCameraAndAlbum</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>DemoGetImageFromCameraAndAlbum.xcodeproj/project.xcworkspace</string>
+	<string>DemoGetImageFromCameraAndAlbum.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>4DE96ECCD9CC0DF59857D740D44FF8754A98CE9E</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/wuyuedefeng/WSCameraAndAlbum.git</string>
+	<string>https://github.com/wuyuedefeng/WSCameraAndAlbum</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
@@ -34,7 +34,7 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>4DE96ECCD9CC0DF59857D740D44FF8754A98CE9E</string>
 			<key>IDESourceControlWCCName</key>
-			<string>DemoGetImageFromCameraAndAlbum</string>
+			<string>WSCameraAndAlbum</string>
 		</dict>
 	</array>
 </dict>
